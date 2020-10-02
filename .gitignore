@@ -20,4 +20,4 @@ publish
 target
 BenchmarkDotNet.Artifacts
 
-__temp__
+/hello
